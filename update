@@ -1,3 +1,5 @@
 - loader has been updated to neverlose
 - Bug fixes and optimization
 - New types of timer FlareonV2, Flareon, Vanilla
+- New gui antilose
+- New authorization system, and more
